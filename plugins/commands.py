@@ -10,7 +10,7 @@ I am a link shortner telegram bot.
 
 >> `I can short any type of link`
 
-Made by @FayasNoushad"""
+Made by @KING_BOT_UPDATE"""
 
 HELP_TEXT = """**Hey, Follow these steps:**
 
@@ -26,19 +26,19 @@ HELP_TEXT = """**Hey, Follow these steps:**
 /settings - For bot settings
 /reset - For reset bot settings
 
-Made by @FayasNoushad"""
+Made by @KING_BOT_UPDATE"""
 
 ABOUT_TEXT = """--**About Me 😎**--
 
 🤖 **Name :** [Link shortner](https://telegram.me/{})
 
-👨‍💻 **Developer :** [Fayas](https://github.com/FayasNoushad)
+👨‍💻 **Developer :** [King](https://t.me/KING_BOT_UPDATE)
 
-📢 **Channel :** [Fayas Noushad](https://telegram.me/FayasNoushad)
+📢 **Channel :** [King Bots](https://telegram.me/KING_BOT_UPDATE)
 
-👥 **Group :** [Developer Team](https://telegram.me/TheDeveloperTeam)
+👥 **Contact us :** [Developer Team](https://telegram.me/KING_BOT_UPDATE)
 
-🌐 **Source :** [👉 Click here](https://github.com/FayasNoushad/URL-Shortner)
+🌐 **Source :** [👉 Click here](https://github.com/SkymoviesHD)
 
 📝 **Language :** [Python3](https://python.org)
 
